@@ -1,0 +1,39 @@
+
+body {
+      margin: 0px;
+      text-align: center;
+      font-family: 'Quicksand', sans-serif;
+      font-size: 25px;
+     }
+  h1 {
+      margin-top: 0;
+      margin-bottom: 0;
+      font-family: 'Sacramento', cursive;
+      font-size: 80px;
+     }
+     h2{
+       font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+     }
+
+  .inner-top{
+
+     }
+  .top-cloud{
+  position:absolute;
+  right:400px;
+  top:50px;
+     }
+  .bottom-cloud{
+  position: absolute;
+  left:400px;
+  bottom:300px;
+}
+  .top-container {
+  background-color: #ccedd2;
+  position:relative;
+  padding-top: 100px;
+     }
+  .middle-container {
+     }
+  .bottom-container {
+     }
